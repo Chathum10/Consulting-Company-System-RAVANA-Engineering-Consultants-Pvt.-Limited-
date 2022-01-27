@@ -14,42 +14,13 @@ Step 04 - Run the web application (COMMAND - npm run dev)
 Original Repositry - https://github.com/SLIIT-FacultyOfComputing/itp_project-itp2021_s2_b01_g14.git                      
 
 
-
-
-
-
-Tools & Technologies
-
-Technologies :
-MERN stack
-![image](https://user-images.githubusercontent.com/89167761/151435343-2d278913-174d-4388-8d31-77cfc3ffb2ba.png)
-
-Front End – React Js
-
-Back End – Node Js, Express Js
-
-No SQL Database – Mongo DB
-
-
-Tools :
-
-VS code - For coding
-![image](https://user-images.githubusercontent.com/89167761/151435420-c9b30455-5275-4712-95e3-2e5e8491ebce.png)
-
-
-Postman - For testing
-![image](https://user-images.githubusercontent.com/89167761/151435445-8a286593-6820-4116-846f-92af362a0dd2.png)
-
-
-
 Contributors
-Group Leader - IT20133672 - Mr. Chathum Dewanmina Adhihetty
-Member 2 - IT20135966 - Ms. Pramoda Piyumali Gunasekara
-Member 3 - IT20137632 - Ms. Piyumika Kavindi Almeda
-Member 4 - IT20135652 - Ms. Gangamini Athmaja Suriyawatta
-Member 5 - IT20138868 - Ms. Vishmi Yashodara Ekanayake
-Member 6 - IT20133122 - Mr. Ashen Eranda Wijenayake
-Member 7 - IT20133818 - Ms. Pawani Muthusala Perera
-Member 8 - IT20139544 - Ms. Anjalee Hansika Kapukotuwa
 
-
+Group Leader - Mr. Chathum Dewanmina Adhihetty (Chathum10)
+Member 2 - Ms.Piyumika Kavindi Almeda (PIYUMI99)
+Member 3 - Ms. Pramoda Piyumali Gunasekara (pramoda99)
+Member 4 - Ms. Gangamini Athmaja Suriyawatta (GangaminiAthmaja)
+Member 5 - Ms. Vishmi Yashodara Ekanayake(vishyash)
+Member 6 - Mr.Ashen Eranda Wijenayake (ashen910)
+Member 7 - Ms. Pawani Muthusala Perera(MuthusalaPerera)
+Member 8 - Ms.Anjalee Hansika Kapukotuwa(Anjalee1999)
