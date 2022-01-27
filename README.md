@@ -17,10 +17,17 @@ Original Repositry - https://github.com/SLIIT-FacultyOfComputing/itp_project-itp
 Contributors
 
 Group Leader - Mr. Chathum Dewanmina Adhihetty (Chathum10)
+
 Member 2 - Ms.Piyumika Kavindi Almeda (PIYUMI99)
+
 Member 3 - Ms. Pramoda Piyumali Gunasekara (pramoda99)
+
 Member 4 - Ms. Gangamini Athmaja Suriyawatta (GangaminiAthmaja)
+
 Member 5 - Ms. Vishmi Yashodara Ekanayake(vishyash)
+
 Member 6 - Mr.Ashen Eranda Wijenayake (ashen910)
+
 Member 7 - Ms. Pawani Muthusala Perera(MuthusalaPerera)
+
 Member 8 - Ms.Anjalee Hansika Kapukotuwa(Anjalee1999)
