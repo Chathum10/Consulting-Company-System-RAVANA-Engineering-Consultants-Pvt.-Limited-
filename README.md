@@ -15,8 +15,7 @@ Original Repositry - https://github.com/SLIIT-FacultyOfComputing/itp_project-itp
 
 
 
-
-Contributors
+# Contributors
 
 Group Leader - Mr. Chathum Dewanmina Adhihetty (Chathum10)
 
