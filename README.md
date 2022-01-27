@@ -14,32 +14,32 @@ Step 04 - Run the web application (COMMAND - npm run dev)
 Original Repositry - https://github.com/SLIIT-FacultyOfComputing/itp_project-itp2021_s2_b01_g14.git                      
 
 
-Consulting-Company-System
-Web Application for a Client | 2nd year 2nd semester Project | SLIIT
-
-__RAVANA Engineering Consultants Pvt. Limited__
 
 
-This is a project done for the IT Project module of BSc.(Hons.) Degree in Information Technology in Sri Lanka Institute of Information Technology.
 
-About this project
-“RAVANA Engineering Consultants Pvt. Limited” is a multi-disciplinary consulting company established in 2010 by the renewable energy founder, Dr. Priyantha Dilleep Wijesooriya. The company provides a range of services in energy and sustainable development sector covering both conventional and renewable energy systems, as well as energy management, environmental assessment, carbon offsetting, carbon sequestration activities, deign of tender designs, and technical (feasibility) report development for local and foreign clients.
 
-Repository Link
-https://github.com/SLIIT-FacultyOfComputing/itp_project-itp2021_s2_b01_g14.git
 Tools & Technologies
+
 Technologies :
 MERN stack
-
+![image](https://user-images.githubusercontent.com/89167761/151435343-2d278913-174d-4388-8d31-77cfc3ffb2ba.png)
 
 Front End – React Js
+
 Back End – Node Js, Express Js
+
 No SQL Database – Mongo DB
+
+
 Tools :
+
 VS code - For coding
+![image](https://user-images.githubusercontent.com/89167761/151435420-c9b30455-5275-4712-95e3-2e5e8491ebce.png)
 
 
 Postman - For testing
+![image](https://user-images.githubusercontent.com/89167761/151435445-8a286593-6820-4116-846f-92af362a0dd2.png)
+
 
 
 Contributors
@@ -51,3 +51,5 @@ Member 5 - IT20138868 - Ms. Vishmi Yashodara Ekanayake
 Member 6 - IT20133122 - Mr. Ashen Eranda Wijenayake
 Member 7 - IT20133818 - Ms. Pawani Muthusala Perera
 Member 8 - IT20139544 - Ms. Anjalee Hansika Kapukotuwa
+
+
